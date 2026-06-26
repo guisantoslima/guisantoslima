@@ -11,18 +11,10 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 
 <p align="left">
     <a href="https://github.com/guisantoslima?tab=followers">
-        <img 
-            align="left"
-            alt="Seguidores" 
-            title="Me siga no GitHub"
-            width="auto" 
-            style="padding-right: 5px; padding-top: 16px;" 
-            src="https://custom-icon-badges.demolab.com/github/followers/guisantoslima?color=0A66C2& labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/guisantoslima?color=ff0000&labelColor=000&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/limaguilherme/">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/connect-red.svg?logo=linkedin&logoSource=feather&color=0A66C2&style=for-the-badge"/></a>
 </p>
-
-[![linkedin](https://img.shields.io/badge/in-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limaguilherme/)
 
 ---
 
