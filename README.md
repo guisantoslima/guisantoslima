@@ -1,6 +1,3 @@
----
-🏄
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&multiline=true&width=435&lines=Real+problem+is+not+whether+machines;think...+but+whether+humans+do.)](https://git.io/typing-svg)
 
