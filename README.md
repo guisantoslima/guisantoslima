@@ -88,7 +88,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     title="SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 <img 
     align="left" 
@@ -96,7 +96,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     title="Mongodb"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
 />
 <img 
     align="left" 
@@ -184,7 +184,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     title="json"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
 />
 
 <br/>
@@ -262,7 +262,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
 <img 
     align="left" 
@@ -270,7 +270,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     title="Numpy"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
 <img 
     align="left" 
@@ -302,7 +302,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     title="SonarQube"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg"
 />
 <img 
     align="left" 
