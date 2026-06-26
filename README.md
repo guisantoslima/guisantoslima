@@ -1,5 +1,6 @@
 # 👨🏽‍💻 Guilherme Lima
 
+
 **`Salesforce Architect | Software Engineer | Enterprise Integration | DevOps | AI/LLM Enthusiast`**
 
 <p align="justify">
@@ -8,35 +9,28 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 
 ---
 
-<div class="container">
-
-  <div class="coluna-esquerda">
-
-   <img 
-     align="left" 
-     alt="LinkedIn" 
-     title="LinkedIn"
-     width="28px" 
-     style="padding-right: 4px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-   />
-   [![linkedin](https://img.shields.io/badge/conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennonalvesdias/)
-
-  </div>
-
-  <div class="coluna-direita">
-   <p align="right">
-     <a href="https://github.com/guisantoslima?tab=followers">
+<p align="left" display="flex">
+    <a href="https://github.com/guisantoslima?tab=followers">
          <img 
+             align="right"
              alt="Seguidores" 
-             title="Me siga no GitHub" 
+             title="Me siga no GitHub"
+             width="auto" 
+             style="padding-right: 5px; padding-top: 8px;" 
              src="https://custom-icon-badges.demolab.com/github/followers/guisantoslima?color=236ad3& labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
          />
-   </p>
+    <a>
+        <img 
+        align="left" 
+        alt="LinkedIn" 
+        title="LinkedIn"
+        width="30px" 
+        style="padding-right: 5px; padding-top: 8px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+</p>
 
-  </div>
-
-</div>
+[![linkedin](https://img.shields.io/badge/conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limaguilherme/)
 
 ### 🥷🏽 Mastered Technologys
 
@@ -196,7 +190,9 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 <br/>
 <br/>
 
-### 🤖 Otehrs Technologys
+---
+
+### 🤖 Otehrs Technologys 
 
 <img 
     align="left" 
@@ -354,53 +350,24 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 <br/>
 <br/>
 
-## 📊 Dashboard
+---
 
-<div class="dashboard">
+### 📊 Dashboard
 
-  <div class="dash-esquerda">
-
+<p align="center" display="flex">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="185" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guisantoslima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200"
+    style="padding: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guisantoslima&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
-  </div>
-
-  <div class="dash-direita">
    
   <img 
-      align="left" 
+      align="left"
       alt="GitHub Stats" 
-      height="185" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantoslima&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=10" 
+      height="200"
+      style="padding: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantoslima&theme=dark&layout=compact&custom_title=Technology&langs_count=10" 
   />
-
-  </div>
-
-</div>
-
-<style>
-  .container {
-    display: flex;
-    width: 100%;
-  }
-  
-  .coluna-esquerda, .coluna-direita {
-    width: 50%;
-    padding: 0px;
-  }
-
-  .dashboard {
-    display: flex;
-    width: 100%;
-  }
-
-  .dash-esquerda, .dash-direita {
-    height= auto;
-    padding: 10px;
-  }
-</style>
+</p>
