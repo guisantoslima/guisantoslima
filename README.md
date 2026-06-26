@@ -5,10 +5,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=8000&pause=100000&center=false&vCenter=true&width=200&lines=B.F.+Skinner)](https://git.io/typing-svg)
 
 
-# 🍷 About Me...
+ # 🍷 About Me...
 
+<img 
+align="left"
+alt="code" 
+title="WorkingFromHome" 
+height="75px"
+style="padding-right: 10px;" 
+src="https://raw.githubusercontent.com/HalemoGPA/HalemoGPA/refs/heads/main/images/Developer.gif"/>
 
-**`Salesforce Architect | Software Engineer | Enterprise Integration & Solution Design | DevOps | Team Linux | AI/LLM Enthusiast`**
+**`Salesforce Architect | Software Engineer & System Design | Enterprise Integration | DevOps | DBA | AI/LLM Enthusiast | Team Linux`**
 
 <p align="justify">
 I’ve been working in technology for over 15 years and will turn 35 this year. I’m the father of a 10-year-old daughter, with a new baby on the way, and I’m driven by a genuine curiosity for innovation, architecture, and building solutions that create real impact. Most of my career has been focused on Salesforce, software engineering, and enterprise architecture, supported by a multidisciplinary background in Game Design, Digital Design, and Information Systems. Over the years, I’ve built a broad technical foundation spanning cloud, integrations, DevOps, multi-stack development, and AI/LLM-driven solutions, always combining strategic vision with technical depth. Outside of work, technology and sports are also part of my daily life, reflecting a profile shaped by continuous learning, study, and side projects.
