@@ -1,5 +1,21 @@
-# 👨🏽‍💻 Guilherme Lima
+---
+🏄
+---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&multiline=true&width=435&lines=Real+problem+is+not+whether+machines;think...+but+whether+humans+do.)](https://git.io/typing-svg)
+
+---
+
+# 🍷 About Me...
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="50px" 
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
 
 **`Salesforce Architect | Software Engineer | Enterprise Integration | DevOps | AI/LLM Enthusiast`**
 
@@ -7,7 +23,7 @@
 I’ve been working in technology for over 15 years and will turn 35 this year. I’m the father of a 10-year-old daughter, with a new baby on the way, and I’m driven by a genuine curiosity for innovation, architecture, and building solutions that create real impact. Most of my career has been focused on Salesforce, software engineering, and enterprise architecture, supported by a multidisciplinary background in Game Design, Digital Design, and Information Systems. Over the years, I’ve built a broad technical foundation spanning cloud, integrations, DevOps, multi-stack development, and AI/LLM-driven solutions, always combining strategic vision with technical depth. Outside of work, technology and sports are also part of my daily life, reflecting a profile shaped by continuous learning, study, and side projects.
 </p>
 
-<br/>
+---
 
 <p align="left">
     <a href="https://github.com/guisantoslima?tab=followers">
@@ -16,18 +32,8 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/connect-red.svg?logo=linkedin&logoSource=feather&color=0A66C2&style=for-the-badge"/></a>
 </p>
 
----
+## 🥷🏽 Mastered Technologys
 
-### 🥷🏽 Mastered Technologys
-
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
 <img 
     align="left" 
     alt=".Net" 
@@ -172,12 +178,6 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
 />
-
-<br/>
-<br/>
-
-### 🤖 Otehrs Technologys 
-
 <img 
     align="left" 
     alt="JQuery" 
@@ -292,14 +292,6 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 />
 <img 
     align="left" 
-    alt="Splunk" 
-    title="Splunk"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg"
-/>
-<img 
-    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -331,6 +323,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 
+<br/>
 <br/>
 <br/>
 <br/>
