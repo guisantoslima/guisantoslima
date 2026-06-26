@@ -1,20 +1,14 @@
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&multiline=true&width=435&lines=Real+problem+is+not+whether+machines;think...+but+whether+humans+do.)](https://git.io/typing-svg)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=8000&pause=100000&center=false&vCenter=true&width=200&lines=B.F.+Skinner)](https://git.io/typing-svg)
+
 
 # 🍷 About Me...
 
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="50px" 
-    style="padding-right: 15px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
 
-**`Salesforce Architect | Software Engineer | Enterprise Integration | DevOps | AI/LLM Enthusiast`**
+**`Salesforce Architect | Software Engineer | Enterprise Integration & Solution Design | DevOps | AI/LLM Enthusiast`**
 
 <p align="justify">
 I’ve been working in technology for over 15 years and will turn 35 this year. I’m the father of a 10-year-old daughter, with a new baby on the way, and I’m driven by a genuine curiosity for innovation, architecture, and building solutions that create real impact. Most of my career has been focused on Salesforce, software engineering, and enterprise architecture, supported by a multidisciplinary background in Game Design, Digital Design, and Information Systems. Over the years, I’ve built a broad technical foundation spanning cloud, integrations, DevOps, multi-stack development, and AI/LLM-driven solutions, always combining strategic vision with technical depth. Outside of work, technology and sports are also part of my daily life, reflecting a profile shaped by continuous learning, study, and side projects.
@@ -29,7 +23,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/connect-red.svg?logo=linkedin&logoSource=feather&color=0A66C2&style=for-the-badge"/></a>
 </p>
 
-## 🥷🏽 Mastered Technologys
+## 🛠️ Toolbox
 
 <img 
     align="left" 
