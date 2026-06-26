@@ -19,7 +19,6 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
              style="padding-right: 5px; padding-top: 8px;" 
              src="https://custom-icon-badges.demolab.com/github/followers/guisantoslima?color=236ad3& labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
          />
-    <a>
         <img 
         align="left" 
         alt="LinkedIn" 
