@@ -7,29 +7,24 @@
 I’ve been working in technology for over 15 years and will turn 35 this year. I’m the father of a 10-year-old daughter, with a new baby on the way, and I’m driven by a genuine curiosity for innovation, architecture, and building solutions that create real impact. Most of my career has been focused on Salesforce, software engineering, and enterprise architecture, supported by a multidisciplinary background in Game Design, Digital Design, and Information Systems. Over the years, I’ve built a broad technical foundation spanning cloud, integrations, DevOps, multi-stack development, and AI/LLM-driven solutions, always combining strategic vision with technical depth. Outside of work, technology and sports are also part of my daily life, reflecting a profile shaped by continuous learning, study, and side projects.
 </p>
 
----
+<br/>
 
-<p align="left" display="flex">
+<p align="left">
     <a href="https://github.com/guisantoslima?tab=followers">
-         <img 
-             align="right"
-             alt="Seguidores" 
-             title="Me siga no GitHub"
-             width="auto" 
-             style="padding-right: 5px; padding-top: 8px;" 
-             src="https://custom-icon-badges.demolab.com/github/followers/guisantoslima?color=236ad3& labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-         />
         <img 
-        align="left" 
-        alt="LinkedIn" 
-        title="LinkedIn"
-        width="30px" 
-        style="padding-right: 5px; padding-top: 8px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+            align="left"
+            alt="Seguidores" 
+            title="Me siga no GitHub"
+            width="auto" 
+            style="padding-right: 5px; padding-top: 16px;" 
+            src="https://custom-icon-badges.demolab.com/github/followers/guisantoslima?color=0A66C2& labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
 </p>
 
-[![linkedin](https://img.shields.io/badge/conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limaguilherme/)
+[![linkedin](https://img.shields.io/badge/in-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limaguilherme/)
+
+---
 
 ### 🥷🏽 Mastered Technologys
 
@@ -346,14 +341,15 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 
 <br/>
 <br/>
+<br/>
 
-### 📊 Dashboard
+## 📊 Dashboard
 
-<p align="center" display="flex">
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="185"
     style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=guisantoslima&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -361,7 +357,7 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
   <img 
       align="left"
       alt="GitHub Stats" 
-      height="200"
+      height="185"
       style="padding: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantoslima&theme=dark&layout=compact&custom_title=Technology&langs_count=10" 
   />
