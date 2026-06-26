@@ -190,8 +190,6 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 <br/>
 <br/>
 
----
-
 ### 🤖 Otehrs Technologys 
 
 <img 
@@ -349,8 +347,6 @@ I’ve been working in technology for over 15 years and will turn 35 this year. 
 
 <br/>
 <br/>
-
----
 
 ### 📊 Dashboard
 
